@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables (IMPORTANT - never push this)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLAlchemy
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
